@@ -91,7 +91,7 @@ In order to use the Time Stretch or Change Pitch tool, you'll need Rubber Band.
 <details id="CannotOpen">
   <summary>MacOS Users: Having Trouble Opening UVR?</summary>
 
-> Due to Apples strict application security, you may need to follow these steps to open UVR.
+> Due to Apple's strict application security, you may need to follow these steps to open UVR.
 >
 > First, run the following command via Terminal.app to allow applications to run from all sources (it's recommended that you re-enable this once UVR opens properly.)
 > 
